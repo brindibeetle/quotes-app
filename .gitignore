@@ -1,0 +1,7 @@
+/.idea/
+
+#/src/main/resources/application.properties
+#/src/main/resources/static/env.js
+#/src/main/resources/static/main.js
+
+/target/
